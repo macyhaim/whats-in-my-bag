@@ -1,0 +1,51 @@
+p{
+    background-color: rgb(247, 200, 208);
+    border: 3px dashed navy;
+    font-family: 'Courier New', Courier, monospace;
+    color: navy;
+    text-align: center;
+    max-width: 60%;
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+body{
+    background-color: rgb(193, 231, 255);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: navy;
+
+
+
+}
+
+img{
+    max-width: 50%;
+    align-items: center;
+    display: flex;
+
+}
+
+nav{
+    position: sticky;
+    top: 30px;
+    padding: 30px;
+
+}
+
+.liner{
+    position: relative;
+}
+
+.my_bag_links{
+    border: 5px dashed navy;
+    background-color: rgb(247, 200, 208);
+    font-family: 'Courier New', Courier, monospace;
+    color: navy;
+
+}
